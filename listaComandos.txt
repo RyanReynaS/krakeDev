@@ -1,2 +1,5 @@
 git clone: <escribir para qué sirve el comando>
 git commit: <colocar la explicación de para qué sirve>
+git push: <subir los archivos al repositorio>
+git status: <ver el estado de los archivos>
+git add: <agregar los archivo para poder subirlos>
